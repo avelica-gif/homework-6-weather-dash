@@ -11,4 +11,3 @@ I am still struggling a lot with API's because I am still struggling a lot with 
 
 Here is the link to my GitHub: https://avelica-gif.github.io/homework-6-weather-dash/
 
-However, I am receiving a 404 error and I do not understand why that is. 
